@@ -2,10 +2,7 @@
 
 This is the main repository for all of the projects in the course.
 
-UPDATE LINK 👇
 
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -64,9 +61,9 @@ UPDATE LINK 👇
 
 ## License
 
-The MIT License
 
-Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
+
+Copyright (c) 2020-2021 To Rahul Satav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
