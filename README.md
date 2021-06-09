@@ -6,26 +6,26 @@ This is the main repository for all of the projects in the course.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](#)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
+| 01  | [Expanding Cards]                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | 
-| 03  | [Rotating Navigation Animation](#)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 04  | [Hidden Search Widget](#)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
-| 05  | [Blurry Loading](#)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
-| 06  | [Scroll Animation](#)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
+| 03  | [Rotating Navigation Animation]                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
+| 04  | [Hidden Search Widget]                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
+| 05  | [Blurry Loading]                    | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
+| 06  | [Scroll Animation]                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
 | 07  | [Split Landing Page]                     | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
-| 08  | [Form Wave]                                      | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
+| 08  | [Form Wave]                                     | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
 | 09  | [Sound Board]                                    | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
-| 10  | [Dad Jokes]                                       | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
-| 11  | [Event Keycodes]                              | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
+| 10  | [Dad Jokes]              | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
+| 11  | [Event Keycodes]                        | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
 | 12  | [Faq Collapse]                                  | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
-| 13  | [Random Choice Picker]                 | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
+| 13  | [Random Choice Picker]                | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
 | 14  | [Animated Navigation]                    | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
-| 15  | [Incrementing Counter]                  | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
-| 16  | [Drink Water]                                   | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
+| 15  | [Incrementing Counter]                | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
+| 16  | [Drink Water]                                 | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 | 17  | [Movie App]                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
-| 18  | [Background Slider]                       | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
-| 19  | [Theme Clock]                                    | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
-| 20  | [Button Ripple Effect]                | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
+| 18  | [Background Slider]                      | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
+| 19  | [Theme Clock]         | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
+| 20  | [Button Ripple Effect]         | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag N Drop]                                  | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App]                                   | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
 | 23  | [Kinetic Loader]                          | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
