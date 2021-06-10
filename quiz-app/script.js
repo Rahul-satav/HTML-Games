@@ -1,3 +1,11 @@
+    //show countdown box
+        show("time");
+
+        //30 seconds timer
+        timeRemaining = 30;
+        document.getElementById("remainingTime").innerHTML=timeRemaining;
+
+
 const quizData = [
     {
         question: "Which language runs in a web browser?",
